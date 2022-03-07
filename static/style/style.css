@@ -1,0 +1,49 @@
+.h4 {
+    text-align: center;
+    color: grey;
+}
+
+.header {
+    margin-bottom: 40px;
+}
+
+.page_header {
+    text-align: center;
+}
+
+.conatainer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+.work_table_item:first-child{
+    width: 400px;
+    text-align: left;
+}
+.work_table_item {
+    width: 170px;
+    font-weight: normal;
+    background-color: rgba(192, 183, 247, 0.76);
+    text-align: center;
+}
+
+.red_item {
+    background-color: pink;
+}
+
+.green_item {
+    background-color: lightgreen;
+}
+
+.work_log_content {
+    margin-top: 40px;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
